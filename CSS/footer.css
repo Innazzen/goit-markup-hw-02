@@ -1,0 +1,16 @@
+#footer {
+  background-color: #2e2f42;
+}
+
+#footer .logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  color: #f4f4fd;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#footer p {
+  color: #f4f4fd;
+}

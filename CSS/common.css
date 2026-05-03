@@ -3,17 +3,16 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.logo {
+
+.logo span {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
-  color: #2e2f42;
+  color: #4d5ae5;
   text-transform: uppercase;
   text-decoration: none;
 }
-.logo span {
-  color: #4d5ae5;
-}
+
 ul {
   list-style: none;
 }

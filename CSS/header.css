@@ -16,3 +16,12 @@ address ul li a {
   font-style: normal;
   text-decoration: none;
 }
+
+#header .logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  color: #2e2f42;
+  text-transform: uppercase;
+  text-decoration: none;
+}
