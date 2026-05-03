@@ -1,8 +1,8 @@
-#footer {
+.footer {
   background-color: #2e2f42;
 }
 
-#footer .logo {
+.footer .logo {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
@@ -13,6 +13,6 @@
   letter-spacing: 0.03em;
 }
 
-#footer p {
+.footer .features-text {
   color: #f4f4fd;
 }
