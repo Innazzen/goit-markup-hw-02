@@ -7,7 +7,7 @@
   font-weight: 500;
   font-size: 16px;
   text-decoration: none;
-  line-height: 24;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .contacts-link {
@@ -17,7 +17,7 @@
   font-size: 16px;
   font-style: normal;
   text-decoration: none;
-  line-height: 24;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -34,6 +34,6 @@
   color: #2e2f42;
   text-transform: uppercase;
   text-decoration: none;
-  line-height: 24;
+  line-height: 1.17;
   letter-spacing: 0.02em;
 }
