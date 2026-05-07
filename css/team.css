@@ -1,7 +1,5 @@
 .team {
   background-color: #f4f4fd;
-  /* width: 1440px;
-  height: 732px; */
 }
 
 .team-title2 {
@@ -9,4 +7,19 @@
   font-family: "Roboto";
   font-weight: 700;
   font-size: 36px;
+
+}
+
+.team-title3 {
+  text-align: center;
+
+}
+
+.team-features-text {
+  text-align: center;
+
+}
+
+.li-item {
+  background-color: #ffffff;
 }

@@ -15,7 +15,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.ul-item {
+ul {
   list-style: none;
 }
 
@@ -25,6 +25,8 @@ body {
   font-weight: 700;
   font-size: 36px;
   text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 
 .title3 {
@@ -34,6 +36,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  /* text-align: center; */
 }
 
 .features-text {
@@ -43,4 +46,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  /* text-align: center; */
 }
